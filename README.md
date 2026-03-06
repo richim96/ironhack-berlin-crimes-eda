@@ -12,7 +12,7 @@ Choose a dataset from common datasets repos (Kaggle, UCI Marchine Learning Repos
  2. Data Analysis: Understand your dataset and create a report about it.
  3. Data Exploration and Context Understanding: 
  	- Import your dataset into SQL
- 	- Answer your Business questions with SQL Queries
+ 	- Answer your questions with SQL Queries
 
 ## Bonus
  - Bonus points if you augment your data with data your obtain through WebScrapping.
